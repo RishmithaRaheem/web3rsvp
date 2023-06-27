@@ -1,0 +1,25 @@
+{
+  "name": "web3rsvpapp",
+  "version": "0.0.1",
+  "description": "web3rsvp dapp",
+  "main": "y",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishmithaRaheem/web3rsvp.git"
+  },
+  "keywords": [
+    "web3",
+    "dapp",
+    "etherium",
+    "polygon"
+  ],
+  "author": "Rishmitha",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/RishmithaRaheem/web3rsvp/issues"
+  },
+  "homepage": "https://github.com/RishmithaRaheem/web3rsvp#readme"
+}
